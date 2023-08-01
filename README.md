@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://palashnath.netlify.app/](https://palashnath.netlify.app/)
 
-- 💬 Ask me about **html, css, js, react, node, redux, express, mongodb**
+- 💬 Ask me about ** HTML, CSS, js, React, node, redux, express, MySQL, MongoDB**
 
 - 📫 How to reach me **palashnath880@gmail.com**
 
