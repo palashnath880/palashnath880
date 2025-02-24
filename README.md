@@ -1,4 +1,4 @@
-<h5 align="left">Hi 👋! I'm Palash. "👨‍💻 Frontend & Backend Developer | React, Next.js, Node.js, Express.js, PHP 🚀"</h5>
+<h3 align="left">Hi 👋! I'm Palash. "👨‍💻 Frontend & Backend Developer | React, Next.js, Node.js, Express.js, PHP 🚀"</h5>
 
 ###
 
